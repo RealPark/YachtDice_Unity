@@ -5,3 +5,4 @@
 * 클라이언트 팀 팀원 분들께서는, 각자 본인의 이름에 해당하는 브랜치에 자신이 이번 과제에 만든 Yacht 게임 프로젝트를 commit 하신 후 main 브랜치로 pull request를 보내주시면 됩니다.
 
 Made by RealPark
+Help by wcroh
